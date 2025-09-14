@@ -1,5 +1,5 @@
 import React from 'react';
-import Heylogo from '../../assets/company_logo/heyLogo.png';
+import Heylogo from '../../assets/company_logo/heylogo.png';
 
 const experience = {
   id: 0,
