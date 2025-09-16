@@ -103,7 +103,7 @@ import { BsNutFill } from 'react-icons/bs';
     image: QuizLogo,
     tags: ["React", "JavaScript", "CSS"],
     github: "https://github.com/Code-max-satyam/Quiz-App-",
-    webapp: "https://github.com/Code-max-satyam/Quiz-App-",
+    webapp: "https://quiz-app-blush-phi.vercel.app/",
   },
   {
     id: 9,
@@ -133,7 +133,7 @@ import { BsNutFill } from 'react-icons/bs';
     image: VideoCallLogo,
     tags: [ "React.js", "API", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/Code-max-satyam/Real-Time-Videocall-App",
-    webapp: "https://github.com/Code-max-satyam/Real-Time-Videocall-App",
+    webapp: "https://real-time-videocall-app.vercel.app/",
   },
   {
     id: 12,
